@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+img{
+    object-fit: cover;
+}
+.container-details{
+    height: 100%;
+    width: 100%;
+    padding: 2%;
+
+}
+
+
+.info-details{
+    width: 100%;
+    height: 40%;
+}
+.loader{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-size: x-large;
+}
